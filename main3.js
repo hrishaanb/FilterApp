@@ -35,7 +35,7 @@ function gotPoses (results) {
 }
 
 function mustacheOnOrOff3 () {
-    window.location = "indexOffOff.html";
+    window.location = "index.html";
 }
 function lipstickOnOrOff3 () {
     window.location = "indexOnOn.html";
