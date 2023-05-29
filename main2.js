@@ -37,7 +37,7 @@ function mustacheOnOrOff2 () {
     window.location = "indexOnOn.html";
 }
 function lipstickOnOrOff2 () {
-    window.location = "indexOffOff.html";
+    window.location = "index.html";
 }
 function take_snapshot2 () {
     save("LipstickFilter.png");
